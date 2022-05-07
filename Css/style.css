@@ -1,0 +1,61 @@
+/****************************** element Selector******************************  */
+*{
+    margin-bottom: 0;
+}
+body{
+    background-color: #CCF3EE;
+}
+p{
+    margin:5px ;
+}
+h3{
+    color:rgb(10, 161, 221);
+}
+
+
+/* ******************************class Selector ****************************** */
+.name h1{
+  color:#1613cd;
+  margin-bottom: 0;
+}
+
+.name hr{
+    background-color: #6ea757;
+    border-style: none;
+    height: 3px;
+    margin: 0;
+    width: 17%;
+}
+.personal-details{
+    color: #312ed3;
+    position: absolute;
+    right: 50px;
+    top:0px;
+}
+.top-container{
+  
+    height: 200px;
+    position: relative;
+}
+.line{
+    
+    border-style: dotted none none none;
+    color:gray;
+    width: 9%;
+    border-width: 10px;
+    
+    
+}
+.footer div{
+    height: 50px;
+    background-color: #b1b1b1;
+}
+.footer p{
+    color: black;
+    font-style: italic;
+    position: absolute;
+    left: 600px;
+    
+}
+
+/* ******************************Id Selector ****************************** */
